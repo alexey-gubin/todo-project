@@ -1,2 +1,2 @@
-# todo-project
+# To Do Project
 Todo project without backend
